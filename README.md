@@ -31,7 +31,7 @@ The `send_pkt()` function takes as input:
 - Destination port: 80
 
 #### Raw payload
-- Payload: "RISC-V Education: https://riscvedu.org/"
+- Payload: "Teamup for good: https://teamup.org/"
 
 ### 2. Listen to all traffic to `8.8.4.4` for 1 minute
 - Sniff all traffic going to the address 8.8.4.4 for 1 minute.
